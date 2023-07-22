@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(247, 239, 138);
+    
+    }
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(71, 73, 60);
+    margin-left: 1050px;
+}
+h1{
+    font-size: 30px;
+    margin-left: 30px;
+    text-decoration: underline;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1cm;
+}
